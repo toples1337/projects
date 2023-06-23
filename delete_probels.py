@@ -15,4 +15,3 @@ while i < len(a):
     i += 1
 
 f1.writelines(a)
-1
